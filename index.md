@@ -9,5 +9,5 @@ Oioioi
 - Bulleted
 - List
 
-### Support or Contact
+### Contact
 <npnapoleone@gmail.com>
