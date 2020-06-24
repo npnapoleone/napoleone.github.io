@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-### Markdown
-
-```markdown
 Oioioi
 
 # Header 1
