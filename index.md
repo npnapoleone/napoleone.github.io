@@ -5,4 +5,4 @@
 ## Twitch Broadcasting
 
 ### Contact
-<a href="npnapoleone.github.io/Resume.pdf">Resume</a> | <npnapoleone@gmail.com>
+<a href="Resume.pdf">Resume</a> | <npnapoleone@gmail.com>
