@@ -1,13 +1,8 @@
-# Unity Projects
-
-## Virtual Repetitions
+# Virtual Repetitions
 
 ## Breadcrumbs
 
-# Other Projects
-
-## Twitch.TV
+## Twitch Broadcasting
 
 ### Contact
-<a href="npnapoleone.github.io/files/resume.pdf" target="_blank">Resume</a>
-<npnapoleone@gmail.com>
+<a href="npnapoleone.github.io/files/resume.pdf" target="_blank">Resume</a> | <npnapoleone@gmail.com>
