@@ -13,6 +13,6 @@
 - Performed a 24-hour Charity Livestream benefiting Beaumont Children's Hospital, raising $300+
 - Instructed a 3,000-viewer audience on how speedrun multiple video games over 3+ hours on the official [GamesDoneQuick](https://gamesdonequick.com/) [Twitch page](https://www.twitch.tv/gamesdonequick)
 ### Gallery
-<img src="vreps_sc.png" height=200 alt="UI dev and assessment"></img><img src="twitch_sc.png" height=200 alt="Teaching Dishonored 2 to 3k viewers"></img><img src="tsp_sc.png" height=200 alt="Custom scene for map building"></img>
+<img src="vreps_sc.png" height=150 alt="UI dev and assessment"><img src="twitch_sc.png" height=150 alt="Teaching Dishonored 2 to 3k viewers"><img src="tsp_sc.png" height=150 alt="Custom scene for map building">
 ### Contact
 <a href="Resume 2022.pdf">Resume</a> | <npnapoleone@gmail.com>
