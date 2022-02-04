@@ -13,4 +13,4 @@
 - Performed a 24-hour Charity Livestream benefiting Beaumont Children's Hospital, raising $300+
 - Instructed a 3,000-viewer audience on how speedrun multiple video games over 3+ hours on the official [GamesDoneQuick](https://gamesdonequick.com/) [Twitch page](https://www.twitch.tv/gamesdonequick)
 ### Contact
-<a href="Resume.pdf">Resume</a> | <npnapoleone@gmail.com>
+<a href="Resume 2022.pdf">Resume</a> | <npnapoleone@gmail.com>
