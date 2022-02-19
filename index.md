@@ -14,7 +14,7 @@
 ## MVPs
 ### [Tap Tunes](http://npnapoleone.github.io/tap-tunes/)
 
-### Gallery
+## Gallery
 <img src="vreps_sc.png" width=640 height=360 alt="UI dev and assessment"><img src="twitch_sc.png" width=640 height=360 alt="Teaching Dishonored 2 to 3k viewers">
 
 ### Contact
