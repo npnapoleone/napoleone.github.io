@@ -15,7 +15,7 @@
 ### [Tap Tunes](http://npnapoleone.github.io/tap-tunes/)
 
 ### Gallery
-<img src="vreps_sc.png" width=640 height=360 alt="UI dev and assessment"><img src="twitch_sc.png" width=640 height=360 alt="Teaching Dishonored 2 to 3k viewers"><img src="tsp_sc.png" width=640 height=360 alt="Custom scene for map building">
+<img src="vreps_sc.png" width=640 height=360 alt="UI dev and assessment"><img src="twitch_sc.png" width=640 height=360 alt="Teaching Dishonored 2 to 3k viewers">
 
 ### Contact
 <a href="Resume 2022.pdf">Resume</a> | <npnapoleone@gmail.com>
