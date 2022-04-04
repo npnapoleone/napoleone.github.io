@@ -16,7 +16,7 @@
 ### [Curling WIP](http://npnapoleone.github.io/curling/)
 
 ## Gallery
-<img src="vreps_sc.png" width=640 height=360 alt="UI dev and assessment"><img src="twitch_sc.png" width=640 height=360 alt="Teaching Dishonored 2 to 3k viewers">
+<img src="vreps_sc.png" width=500 alt="UI dev and assessment"><img src="twitch_sc.png" width=500 alt="Teaching Dishonored 2 to 3k viewers">
 
 ### Contact
 <a href="Resume 2022.pdf">Resume</a> | <npnapoleone@gmail.com> | [LinkedIn](https://www.linkedin.com/in/nicolas-napoleone-8838a0134)
