@@ -4,20 +4,26 @@
 - Integrate OpenXR for Meta Quest with early-access tools such as the Hand Tracking Subsystem.
 - Design and iterate on UI/UX concepts from an educational lens.
 - Schedule and collaborate with team members across the globe on a daily basis.
-- Grew a company social media account [(TikTok)](https://www.tiktok.com/@vrepsbasketball) from 18,000 followers to 30,000 followers in two months.
+- Grew a company social media account [(TikTok)](https://www.tiktok.com/@vrepsbasketball) from 18k to 36k+ followers.
 - Constructed a user study and interviewed subject matter experts to best guide future development.
 
-## Disc Golf
-[Link](https://www.pdga.com/player/199348)
-- Participate in competitive tournaments for cash prizes
-- Runner-up at the 2022 Snake Charmer Open (MA4)
+## TikTok Content Creation
+[Link](https://tiktok.com/@noodlesnacs)
+- Create educational gaming content for Call of Duty and Counter-Strike titles.
+- Conceptualize, record, edit and produce entertaining videos ranging from 15 seconds to 3 minutes.
+- Diversify content across tutorials, commentary, highlights, skits and trends
+- 34k+ followers, 1.5M+ likes since creation in October 2022.
 
 ## Twitch Broadcasting
 [Link](https://twitch.tv/NoodlesCS2)
 - Provided live online entertainment for prolonged periods with revenue collected by running advertisements or garnering paid subscriptions from viewers.
 - Performed a 24-hour charity livestream benefiting Beaumont Children's Hospital raising over $300.
 - Instructed a more than 3,000 live-viewer audience on how to speedrun multiple video games across 4 hours, broadcasted on the official [GamesDoneQuick](https://gamesdonequick.com/) [Twitch channel](https://www.twitch.tv/gamesdonequick).
-- Grew an additional social media account [(TikTok)](https://www.tiktok.com/@noodlesruns) from 0 to over 33,000 followers in 5 months.
+
+## Disc Golf
+[Link](https://www.pdga.com/player/199348)
+- Participate in competitive tournaments for cash prizes
+- Runner-up at the 2022 Snake Charmer Open (MA4)
 
 ### Contact
 <npnapoleone@gmail.com> | [LinkedIn](https://www.linkedin.com/in/nicolas-napoleone-8838a0134)
