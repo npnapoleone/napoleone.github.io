@@ -8,7 +8,7 @@
 - Developed broadcast-specific tools for [live use](https://x.com/CBSSportsCBB/status/1616858349886119937?t=_ptvus_OE9QXvAlug0WMgg&s=19) during CBS March Madness coverage.
 
 ## Content Creator at NoodlesRuns
-[YouTube](https://youtube.com/@noodlesruns) | [TikTok](https://tiktok.com/@noodlesruns)</span>
+[YouTube](https://youtube.com/@noodlesruns) | [TikTok](https://tiktok.com/@noodlesruns)
 - Create educational gaming content across various Call of Duty titles.
 - Conceptualize, record, edit and produce entertaining videos ranging from 15 seconds to 25 minutes.
 - Diversify content across tutorials, commentary, highlights, skits and trends.
