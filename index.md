@@ -1,9 +1,9 @@
 ## Lead VR Developer at Virtual Repetitions
 [Webpage](https://vreps.us) | [iOS](https://apps.apple.com/us/app/vreps-basketball-playbook/id1143101945) | [Android](https://play.google.com/store/apps/details?id=com.VirtualRepetitions.Playbook.Basketball&hl=en_US)
-- Developed in the Unity game engine for iOS, macOS, Android Mobile, Android VR, WebGL and Windows platforms.
+- Developed in the Unity game engine for Android Mobile, Android VR, iOS, macOS, WebGL and Windows platforms.
 - Integrated OpenXR for Meta Quest with early-access tools such as XR Interaction Toolkit & XR Hands.
 - Designed and iterated on UI/UX concepts from an educational lens.
-- Scheduled and collaboratde with team members across the globe on a daily basis.
+- Scheduled and collaborated with team members across the globe on a daily basis.
 - Grew a company [TikTok](https://www.tiktok.com/@vrepsbasketball) account from 18k to 38k+ followers.
 - Developed broadcast-specific tools for [live use](https://x.com/CBSSportsCBB/status/1616858349886119937?t=_ptvus_OE9QXvAlug0WMgg&s=19) during CBS March Madness coverage.
 
