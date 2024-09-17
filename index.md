@@ -12,6 +12,7 @@
 - Create educational gaming content across various Call of Duty titles.
 - Conceptualize, record, edit and produce entertaining videos ranging from 15 seconds to 25 minutes.
 - Diversify content across tutorials, commentary, highlights, skits and trends.
+- Instructed a more than 3,000 live-viewer audience on [how to speedrun multiple video games](https://www.youtube.com/watch?v=B1KcXiqMAqM) across 3 hours, broadcasted on the official [GamesDoneQuick](https://gamesdonequick.com) [Twitch channel](https://www.twitch.tv/gamesdonequick).
 
 ### Contact
 <npnapoleone@gmail.com> | [LinkedIn](https://www.linkedin.com/in/nicolas-napoleone-8838a0134)
