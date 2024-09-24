@@ -1,5 +1,5 @@
 ## Lead VR Developer at Virtual Repetitions
-[Webpage](https://vreps.us) | [iOS](https://apps.apple.com/us/app/vreps-basketball-playbook/id1143101945) | [Android](https://play.google.com/store/apps/details?id=com.VirtualRepetitions.Playbook.Basketball&hl=en_US)
+[Webpage](https://vreps.us) | [iOS](https://apps.apple.com/us/app/vreps-basketball-playbook/id1143101945) | [Android](https://play.google.com/store/apps/details?id=com.VirtualRepetitions.Playbook.Basketball&hl=en_US) | [Meta Quest](https://www.meta.com/experiences/vreps-basketball/5010044309067554/)
 - Developed in the Unity game engine for Android Mobile, Android VR, iOS, macOS, WebGL and Windows platforms.
 - Integrated OpenXR for Meta Quest with early-access tools such as XR Interaction Toolkit & XR Hands.
 - Designed and iterated on UI/UX concepts from an educational lens.
